@@ -1,0 +1,4 @@
+/home/f85/zdhughes/Graphics/HW2/HW2/CMakeFiles/test.dir
+/home/f85/zdhughes/Graphics/HW2/HW2/CMakeFiles/hw1.dir
+/home/f85/zdhughes/Graphics/HW2/HW2/CMakeFiles/hw2.dir
+/home/f85/zdhughes/Graphics/HW2/HW2/CMakeFiles/imagediff.dir
