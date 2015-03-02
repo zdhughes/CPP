@@ -1,0 +1,6 @@
+/home/zachary/Documents/HW4/CMakeFiles/hw1.dir
+/home/zachary/Documents/HW4/CMakeFiles/hw2.dir
+/home/zachary/Documents/HW4/CMakeFiles/hw3.dir
+/home/zachary/Documents/HW4/CMakeFiles/hw4.dir
+/home/zachary/Documents/HW4/CMakeFiles/imagediff.dir
+/home/zachary/Documents/HW4/CMakeFiles/test.dir

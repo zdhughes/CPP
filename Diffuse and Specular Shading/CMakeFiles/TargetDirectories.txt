@@ -1,0 +1,5 @@
+/home/zachary/Documents/HW3/CMakeFiles/hw1.dir
+/home/zachary/Documents/HW3/CMakeFiles/hw2.dir
+/home/zachary/Documents/HW3/CMakeFiles/hw3.dir
+/home/zachary/Documents/HW3/CMakeFiles/imagediff.dir
+/home/zachary/Documents/HW3/CMakeFiles/test.dir
